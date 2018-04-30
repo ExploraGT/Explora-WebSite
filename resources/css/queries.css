@@ -1,0 +1,2007 @@
+@media only screen and (max-width: 1250px) {
+	
+	   	/*------------
+		-- MENU 
+		-------------*/		
+		.menu a{padding:15px 15px;}
+		.NavMenu {font-size:14px; left:65%; top:1%;}
+		
+	   /*--------------
+		--Footer
+		---------------*/
+		.footer{font-size:45px;height:400px; }
+		.footer p{ font-size:12px;}
+		#txtNombre{width:30%;left:5%;top:20%;}
+		#txtTelefono{width:18%;left:36.4%;top:20%}
+		#recaptcha-footer{
+			top:18%; left:57%;
+			-webkit-transform: scale(0.79);
+			-moz-transform:    scale(0.79);
+			-ms-transform:     scale(0.79);
+			-o-transform:      scale(0.79);
+			transform:         scale(0.79);
+
+			-webkit-transform-origin: 0 0;
+			-moz-transform-origin: 0 0;
+			-ms-transform-origin: 0 0;
+			-o-transform-origin: 0 0;
+			transform-origin: 0 0;
+		}
+		#btnEnviar{width:14%;left:82%;top:20%}
+		#fb{left:59%;top:63.5%;}
+		#im{left:67%;top:63.5%;}
+		#in{left:77%;top:63.5%;}
+		#telefono{top:39%;}
+		#mail{top:49%;}
+		.lblTelefono{top:36%;left:46%;}
+		.lblMail{top:46%;left:46%;}
+		.logo_firma{position:absolute;top:38%;}
+		.firma{font-size:14px;left:30%; top:92%;}
+	
+		/*---------------
+		--CONTACTO
+		---------------*/
+		
+			.contactoExplora-form { width:80%;}
+			
+			.contactoExplora-form p{
+				font-size:24px; 
+				top:5%;
+				left:31%;
+			}
+			
+			.contactoExplora-form h4{
+				font-size:18px;
+				left:21.5%;
+			}
+			
+			.contactoExplora-form h5{
+				font-size:18px;
+				left:31%;
+				top:92%;				
+			}
+		
+		/*----------------
+		-- HOMEPAGE
+		-----------------*/
+		
+		input.btn-Creamos-Pagina-Web{top:70%;}	
+		
+		
+		/*-------------------------
+		-- Imagenes-Homepage
+		-------------------------*/
+		.img-productos {height:800px;}
+		
+		/*----------------------
+		-- 	CLIENTES-HOMEPAGE
+		-----------------------*/
+		.clientes {height:110px; left:20%;}
+		
+		.grupoDent{left:0%;width:240px;}
+		
+		.lilah{left:0%;width:240px;}
+		
+		.uvg{left:0%;width:240px;}
+		
+		.streetMKT{left:0%;width:240px;}
+
+		.europcar{left:0%;width:240px;}
+		
+		
+		/*-----------------
+		-- PAGINAS WEB 
+		------------------*/	
+		
+		.img-pagina-web { height:740px;}
+		
+		.pw-mantenimiento p{top:41%;}
+		
+		.ecommerce p{top:41%;}
+		
+		.p-plan-basico{left:22%; top:69%; font-size:20.5px; width:24%;}
+		
+		.p-plan-premium{left:73%; top:69%;  font-size:20.5px; }
+		
+		.plan-basico p{font-size:22px; left:18%; top:51%; width:70%;}
+		
+		.plan-premium p{font-size:22px; left:18%; top:51%; width:70%;}
+		
+		input.btn-plan-basico {
+								top:75%;
+								left:11%;
+								width:120px;
+								height:40px;
+								font-size:14px;
+							  }
+		
+		input.btn-plan-premium {
+									top:75%;
+									left:11%;
+									width:120px;
+									height:40px;
+									font-size:14px;
+								}
+		
+		 /*-----------------
+		-- SEO -PW
+		------------------*/
+
+	  .img-seo{position:absolute; top:13%; left:3%;}
+	  
+	  .div-seo h3{font-size: 24px; left:63%; top:15%}
+	  .div-seo h1{font-size: 44px; left:63%; top:20%}
+	  .div-seo h2{font-size: 28px; left:63%; top:28%; width:25%;}
+	  
+	  input.btn-mas-info-seo{
+								top:40%;
+								left:63%;
+								width:220px;
+								height:40px;
+								font-size:20px;
+							  }
+	  
+	  .div-seo p{
+					left:63%;
+					width:35%;
+					top:50%;
+					font-size:21px; 
+				}
+		/*-----------------
+		-- HOSTING -PW
+		------------------*/
+	  
+	  .img-hosting{Left:1%;}
+	  
+	  input.btn-plan-hosting{left:38%; top:82%;}
+	  
+		/*-----------------
+		-- DOMINIO -PW 
+		------------------*/
+	  
+		.img-dominio{left:0%;}
+		.div-dominio p{left:42%;} 
+							  
+		input.btn-mas-info-hosting{left:42%;}
+
+}   
+			
+@media only screen and (max-width: 1025px) {
+	   
+		html,
+		body { line-height: 25px;}
+		 
+		/*------------
+		-- MENU 
+		-------------*/		
+		.menu a{padding:15px 15px;}
+		.NavMenu {font-size:12px; left:65%; top:1%;}
+		.img-logo{top:6%;}
+		
+		.menu ul li:hover ul{
+			left:9%;   /*Modificar posicion submenu*/
+			width:58%;
+		}
+		
+		.hr{height:1px;}
+	
+		
+		/*----------------
+		-- Imagenes-HOMEPAGE
+		-----------------*/
+		.img-section1 { height:680px;}
+		.img-section2 { height:700px;}
+		.img-section3 { height:600px;}
+		.img-section4 { height:200px;}
+		.img-productos {height:630px;}
+
+		
+		/*----------------
+		-- HOMEPAGE
+		-----------------*/
+			
+		.paginaWeb-txt{font-size:30px; top:50%;	}
+		
+		input.btn-Contactanos {width:180px; top:16%;}
+		
+		.div2_1{top:4%;font-size:22px;} .div2_2{top:4%;font-size:22px;}
+		
+		.div2_3{font-size:19px;width:90%; top:6%;}
+		
+		.div2_4{font-size:19px;width:90%; top:7%;}
+		
+		.success1{left:15%;font-size:22px;top:0%;}
+		.success1_1{top:0%;}
+		
+		.success2{left:15%;font-size:22px;top:13%;}
+		.success2_1{top:13%;}
+		
+		.success3{left:15%;font-size:22px;top:26%;}
+		.success3_1{top:26%;}
+		
+		.success4{left:15%; font-size:22px;top:39%;}
+		.success4_1{top:39%;}
+		
+		input.btn-Creamos-Pagina-Web{width:200px;font-size:15px;}	
+		
+		.div3_1{top:25%;}
+		
+		.div3_2{font-size:30px;top:28%;}
+		
+		.div3_3{font-size:20px;width:40%;left:30%;top:35%;}
+		
+		.btn-Quiero-resultados{left:37.5%;width:200px;font-size:18px;top:30%;height:6%;}	
+		
+		.div4_1{font-size:22px;width:70%;left:18%;line-height:30px;}
+		
+		input.btn-Crea-tu-sitio-web{left:43%;font-size:18px;width:200px;height:15%;}
+		
+		.div4_2{font-size:22px;left:23%;top:12%;} 
+		
+		.div4_3{font-size:22px;left:23.8%;top:12%;}
+		
+		.div4_4{font-size:22px;left:24.4%;top:12%;}
+		
+		/*-----------------
+		-- PAGINAS WEB 
+		------------------*/	
+		
+		.img-pagina-web { height:512px; width:100%;}
+		
+		.menu-pw{position:absolute; left:27%; top:0%;}
+				
+		.nav-paginas-web{
+			position:relative;
+			 height:1550px; 
+			 width:100%;
+			 background-color:white; 
+		  }
+							
+			.PW_pencil{position:absolute;  top:6%; left:70%;}
+		  
+			.planes h2{left:33%; top:60%}
+			.planes h3{left:20%; top:63%;}
+			
+			.plan-basico{
+						 height:380px; 
+						 width:15%;
+						 top:68%;
+						 left:3%;
+						}
+			
+			.img-pw-basico{top:15%; left:12%;}
+			
+			.plan-basico p{font-size:20px; left:25%; top:51%; width:50%;}
+			
+			input.btn-plan-basico {width:110px; font-size:12px;}
+			
+			.p-plan-basico{
+							left:22.5%;
+							width:23%;
+							top:70%;
+							font-size:18px; 
+							line-height:25px;
+						 }
+			
+			.plan-premium{
+						   height:380px; 
+						   width:15%;
+						   top:68%;
+						   left:53%;
+						  }
+			
+			.img-pw-premium{position:absolute; top:20%; left:15%;}
+			
+			.plan-premium p{font-size:20px; left:20%; top:51%; width:50%;text-align:center;}
+			
+			input.btn-plan-premium {width:110px; font-size:12px;}
+			
+			.p-plan-premium{
+							left:71.5%;
+							width:23%;
+							top:70%;
+							font-size:19px; 
+							line-height:25px;
+						 }
+							  
+		  /*-----------------
+			-- SEO - PW
+			------------------*/
+
+		  .img-seo{position:absolute; top:18%; left:3%;}
+		  
+		  .div-seo h3{font-size: 24px; left:60%; top:15%}
+		  .div-seo h1{font-size: 44px; left:60%; top:21.5%}
+		  .div-seo h2{font-size: 28px; left:60%; top:28%; width:25%;}
+		  
+		  input.btn-mas-info-seo{
+									top:40%;
+									left:60%;
+									width:220px;
+									height:40px;
+									font-size:20px;
+								  }
+		  
+		  .div-seo p{
+						left:60%;
+						width:35%;
+						top:50%;
+						font-size:21px; 
+						line-height:28px;
+					  }
+		  
+		  /*-----------------
+			-- HOSTING - PW
+			------------------*/
+		  
+		  .img-hosting{position:absolute; top:7%; left:2%;}
+		  
+		  .div-hosting p{
+							left:38%;
+							width:58%;
+							top:8%;
+							font-size:21px; 
+							line-height:28px;
+						}
+		  
+		   .hosting-carga{			            
+							left:5%;
+							width:27%;
+							top:35%;
+							font-size:17px; 
+							line-height:24px;
+						  }   
+						  
+		   .hosting-proteccion{			            
+								left:37%;
+								width:27%;
+								top:35%;
+								font-size:17px; 
+								line-height:24px;
+							  } 
+
+		   .hosting-apoyo{			            
+							left:68%;
+							width:27%;
+							top:35%;
+							font-size:17px; 
+							line-height:24px;
+						  } 						  
+			
+		  
+		  /*-----------------
+			-- DOMINIO - PW
+			------------------*/
+		  
+		  .img-dominio{top:30%;}
+		  
+		   .div-dominio p{			            
+							left:42%;
+							width:55%;
+							top:20%;
+							font-size:21px; 
+							line-height:27px;
+						  } 
+						  
+		   input.btn-mas-info-hosting{
+										top:68%;
+										left:42%;
+										width:220px;
+										height:40px;
+										font-size:20px;
+									  }
+		
+		
+   
+	
+}
+
+@media only screen and (max-width: 868px) {
+	
+		/*------------
+		-- MENU 
+		-------------*/		
+		.menu a{padding:15px 15px;}
+		.NavMenu {font-size:12px; left:55%; top:0.5%;}
+		
+		.menu ul li:hover ul{
+			left:9%;   /*Modificar posicion submenu*/
+			width:55%;
+		}
+		
+		/*--------------
+		--Footer
+		---------------*/
+		.footer{font-size:45px;height:400px; }
+		.footer p{ font-size:14px;text-align:center;width:95%;left:-6%;}
+		#txtNombre{width:25%;left:2%;top:20%;}
+		#txtTelefono{width:18%;left:28.5%;top:20%}
+		#recaptcha-footer{left:48.5%;}
+		#btnEnviar{width:16%;left:82%;top:20%}
+		#fb{left:57%;top:63.5%;}
+		#im{left:67%;top:63.5%;}
+		#in{left:79%;top:63.5%;}
+		.logo_firma{position:absolute;top:38%;}
+		.firma{font-size:14px;left:30%; top:92%;}
+	
+		/*---------------
+		--CONTACTO
+		---------------*/
+		
+			.contactoExplora-form { width:80%;}
+			
+			.contactoExplora-form p{
+				font-size:24px; 
+				top:5%;
+				left:25%;
+			}
+			
+			.contactoExplora-form h4{
+				font-size:18px;
+				top:12%;
+				left:13%;
+			}
+			
+			.contactoExplora-form h5{
+				font-size:18px;
+				left:25%;
+				top:92%;				
+			}
+
+	   #recaptcha-contacto{ left:30%; }
+
+
+		
+		/*----------------------
+		-- Imagenes -homepage
+		-----------------------*/
+		.img-section1 { height:560px;}
+		.img-section2 { height:580px;}
+		.img-section3 { height:450px;}
+		.img-section4 { height:200px;}
+		.img-productos {height:500px;}
+		
+		/*-----------------------
+		-- 	CLIENTES - homepage
+		-----------------------*/
+		.clientes {height:90px; left:20%;}
+		
+		.grupoDent{left:0%;width:240px;}
+		
+		.lilah{left:0%;width:240px;}
+		
+		.uvg{left:0%;width:240px;}
+		
+		.streetMKT{left:0%;width:240px;}
+
+		.europcar{left:0%;width:240px;}
+
+		
+		/*----------------
+		-- HOMEPAGE
+		-----------------*/
+		.paginaWeb-txt{font-size:26px;top:49%;}
+		
+		input.btn-Contactanos {width:160px; top:16.5%;font-size:14px;}
+		
+		.div2_1{top:4%;font-size:19px;} .div2_2{top:2%;font-size:19px;}
+		
+		.div2_3{font-size:16px;width:90%; top:3%;}
+		
+		.div2_4{font-size:16px;width:90%; top:4%;}
+		
+		.success1{left:15%;font-size:19px;top:-13%;}
+		.success1_1{top:-13%;}
+		
+		.success2{left:15%;font-size:19px;top:0%;}
+		.success2_1{top:0%;}
+		
+		.success3{left:15%;font-size:19px;top:13%;}
+		.success3_1{top:13%;}
+		
+		.success4{left:15%; font-size:19px;top:26%;}
+		.success4_1{top:26%;}
+		
+		input.btn-Creamos-Pagina-Web{width:200px;font-size:15px;top:65%;}	
+		
+		.div3_1{top:20%;}
+		
+		.div3_2{font-size:30px;top:20%;}
+		
+		.div3_3{font-size:15px;width:40%;left:30%;top:25%;}
+		
+		.btn-Quiero-resultados{left:37.5%;width:200px;font-size:18px;top:30%;height:6%;}	
+		
+		.div4_1{font-size:22px;width:70%;left:18%;}
+		
+		input.btn-Crea-tu-sitio-web{left:38.5%;font-size:18px;width:200px;height:15%;}
+		
+		.div4_2{font-size:22px;left:18%;top:12%;} 
+		
+		.div4_3{font-size:22px;left:18.8%;top:12%;}
+		
+		.div4_4{font-size:22px;left:19.4%;top:12%;}
+		
+		
+		/*-----------------
+		-- PAGINAS WEB 
+		------------------*/	
+		
+			.menu-pw{position:absolute; left:22%; top:0%;}
+			
+			.img-pagina-web { height:434px; width:100%;}
+			
+			.diseño-sitios h2{font-size: 18px; left:5%; top:3.5%}
+			.diseño-sitios h3{font-size: 24px; left:5%; top:6%;}
+			.diseño-sitios p{
+								position:absolute;  
+								left:5%;
+								width:60%;
+								top:9%;
+								color:#b2b1b1; 
+								font-family: 'Source Sans Pro', sans-serif; 
+								font-size:19px; 
+								line-height:22px;
+							}
+			.diseño-sitios p b{font-size:20px;}
+							
+			.PW_pencil{position:absolute;  top:8%; left:70%;}
+			
+			.PW_page{position:absolute;  top:28%; left:19%;}
+
+			.pw-mantenimiento{font-size:19px;}
+			
+			.pw-mantenimiento p{
+								left:10%;
+								width:40%;
+								top:39%;
+								line-height:24px;
+							}
+			
+			.ecommerce{font-size:19px;}
+			
+			.PW_ecommerce{top:28%; left:68%;}
+			
+			.ecommerce p{
+							left:56%;
+							width:38%;
+							top:39%;
+							line-height:24px;
+						}
+			
+		  
+			.planes h2{left:28%; top:60%; font-size:22px;}
+			.planes h3{left:13%; top:63%; font-size:26px;}
+			
+			.plan-basico{
+						 height:380px; 
+						 width:15%;
+						 top:68%;
+						 left:3%;
+						}
+			
+			.img-pw-basico{top:15%; left:12%;}
+			
+			.plan-basico p{font-size:17px; left:20%; top:51%; width:50%;}
+			
+			input.btn-plan-basico {
+									top:75%;
+									left:11%;
+									width:80px;
+									height:30px;
+									font-size:10px;
+								  }
+			
+			.p-plan-basico{
+							left:23.5%;
+							width:22%;
+							top:71%;
+							font-size:12px; 
+							line-height:24px;
+						 }
+			
+			.plan-premium{
+						   height:380px; 
+						   width:15%;
+						   top:68%;
+						   left:53%;
+						  }
+			
+			.img-pw-premium{top:20%; left:17%;}
+			
+			.plan-premium p{font-size:16px; left:18%; top:51%; width:50%; }
+			
+			input.btn-plan-premium {
+										top:75%;
+										left:11%;
+										width:80px;
+										height:30px;
+										font-size:10px;
+									}
+			
+			.p-plan-premium{
+							left:72%;
+							width:22%;
+							top:71%;
+							font-size:12px; 
+							line-height:24px;
+						 }
+							  
+		  /*-----------------
+			-- SEO - PW
+			------------------*/
+
+		  .img-seo{position:absolute; top:23%; left:3%;}
+		  
+		  .div-seo h3{font-size: 20px; left:60%; top:15%}
+		  .div-seo h1{font-size: 40px; left:60%; top:21%}
+		  .div-seo h2{font-size: 24px; left:60%; top:28%; width:25%;}
+		  
+		  input.btn-mas-info-seo{
+									top:40%;
+									left:60%;
+									width:200px;
+									height:40px;
+									font-size:16px;
+								  }
+		  
+		  .div-seo p{
+						left:60%;
+						width:38%;
+						top:50%;
+						font-size:18px; 
+						line-height:26px;
+					  }
+		  
+		  /*-----------------
+			-- HOSTING -PW
+			------------------*/
+		  
+		  .img-hosting{position:absolute; top:8%; left:2%;}
+		  
+		  .div-hosting p{
+							left:40%;
+							width:58%;
+							top:8%;
+							font-size:16px; 
+							line-height:24px;
+						}
+		  
+		   .hosting-carga{			            
+							left:5%;
+							width:27%;
+							top:35%;
+							font-size:13px; 
+							line-height:22px;
+						  }   
+						  
+		   .hosting-proteccion{			            
+								left:37%;
+								width:27%;
+								top:35%;
+								font-size:13px; 
+								line-height:22px;
+							  } 
+
+		   .hosting-apoyo{			            
+							left:68%;
+							width:27%;
+							top:35%;
+							font-size:13px; 
+							line-height:22px;
+						  } 				
+						  
+			input.btn-plan-hosting{left:38%; top:77.5%;}
+		  
+		  /*-----------------
+			-- DOMINIO - PW
+			------------------*/
+		  
+		  .img-dominio{top:35%; left:0%;}
+		  
+		   .div-dominio p{			            
+							left:44%;
+							width:52%;
+							top:20%;
+							font-size:16px; 
+							line-height:25px;
+						  } 
+						  
+		   input.btn-mas-info-hosting{
+										top:68%;
+										left:44%;
+										width:200px;
+										height:30px;
+										font-size:16px;
+									  }
+   
+	
+}
+
+/* Small phones from 410 to 767px */
+@media only screen and (max-width: 767px) {
+	
+	   /*------------
+		-- MENU 
+		-------------*/
+		/*hr{display:none;}*/
+		
+		.menu a{padding:10px 10px;}
+		
+		.NavMenu{position:absolute;left:95%; top:2%;}
+		
+		.NavMenu label{display:block;position:absolute;}
+		
+		#btnMenu:checked ~ .menu{transform:translateX(-0%);}		
+		
+		#contacto{display:none;}
+		
+		.NumTelefono{display:block;}
+		
+		#noTel{display:block;}
+		
+		.menu {
+			position:absolute;
+			top:-10%;
+			width:160px;
+			height:100px;
+			font-size:10px; 
+			text-align:right;
+			transform:translateX(400%);
+			transition: all 0.3s;
+			}
+		
+		.menu ul{ flex-direction:column; } /*Lo pone en columnas*/
+		
+		.menu ul li:hover ul{
+								display:none;
+								position:absolute;
+								text-align:center;
+								left:25%;
+								width:65%;
+							}
+		.img-logo{position:relative; top:5%; left:5%; 300px;}									  
+		
+		/*---------------
+		--CONTACTO
+		---------------*/
+		
+			.contactoExplora-form { width:80%;}
+			
+			.contactoExplora-form p{
+				font-size:18px; 
+				top:6%;
+				left:16%;
+			}
+			
+			.contactoExplora-form h4{
+				font-size:12px;
+				top:11%;
+				left:5%;
+				line-height:20px;
+			}
+			
+			.contactoExplora-form h5{
+				font-size:14px;
+				left:14%;
+				top:90%;				
+			}
+		  .nombre-modal { width:80%; height:6%; left:11%;}
+		  .correo-modal { width:80%; height:6%; left:11%;}
+		  .proy-modal { width:80%;  left:11%;}
+
+		.enviar-modal { width:40%; left:30%;}
+		
+		#recaptcha-contacto{ left:21.5%; 
+			-webkit-transform: scale(0.79);
+			-moz-transform:    scale(0.79);
+			-ms-transform:     scale(0.79);
+			-o-transform:      scale(0.79);
+			transform:         scale(0.79);
+
+			-webkit-transform-origin: 0 0;
+			-moz-transform-origin: 0 0;
+			-ms-transform-origin: 0 0;
+			-o-transform-origin: 0 0;
+			transform-origin: 0 0;}
+
+
+		/*--------------
+		--Footer
+		---------------*/
+		.footer{  font-size:60px;  
+				  background: url(img/logo_footer_resp.jpg); 
+				  background-size:100% 100%;
+				  background-repeat:no-repeat
+				  background-position:center;
+				  height:450px;
+				  width:100%;
+				  line-height:18px;
+				}
+		.footer p{ font-size:16px;text-align:center;width:75%;left:15%; top:5%;}
+		.footer p br {display:block;}
+		#txtNombre{top:24%;left:8%;width:83%;height:35px;font-size:13px;}
+		#txtTelefono{top:34.5%;left:8%;width:83%;height:35px;font-size:13px;}
+		#recaptcha-footer{
+			top:45%;left:24%;
+			-webkit-transform: scale(0.75);
+			-moz-transform:    scale(0.75);
+			-ms-transform:     scale(0.75);
+			-o-transform:      scale(0.75);
+			transform:         scale(0.75);
+
+			-webkit-transform-origin: 0 0;
+			-moz-transform-origin: 0 0;
+			-ms-transform-origin: 0 0;
+			-o-transform-origin: 0 0;
+			transform-origin: 0 0;
+		}
+		#btnEnviar{top:61%;left:35%;width:32%;height:35px;}
+		#telefono{display:none;}
+		#mail{display:none;}
+		.lblTelefono{display:none;}
+		.lblMail{display:none;}
+		#fb{left:58%;top:73.5%;}
+		#im{left:68%;top:73.5%;}
+		#in{left:80%;top:73.5%;}
+		.firma{font-size:12px;left:16%;top:93%;}
+		
+		/*-----------------------
+		-- Imagenes - HOMEPAGE
+		-----------------------*/
+		
+		 .img-section1 {
+					background:url(img/HP_Section1_Resp.jpg);
+					background-repeat:no-repeat;
+					background-size:100% 100%;
+					background-position:center;
+					height:600px;
+					width:100%;
+					  }
+		.img-section2 {
+						background: url(img/HP_Section2_Resp.jpg);
+						background-repeat:no-repeat;
+						background-size:100% 100%;
+						background-position:center;
+						height:330px;
+						width:100%;
+					  }
+		.img-section3 {
+						background: url(img/HP_Section3_Resp.jpg);
+						background-repeat:no-repeat;
+						background-size:100% 100%;
+						background-position:center;
+						height:250px;
+						width:100%;
+					  }
+		.img-section4 {
+						background: url(img/HP_Section4_Resp.jpg);
+						background-repeat:no-repeat;
+						background-size:100% 100%;
+						background-position:center;
+						height:120px;
+						width:100%;
+					  }
+		.img-productos {
+						background: url(img/HP_Section5_resp.jpg);
+						background-repeat:no-repeat;
+						background-size:100% 100%;
+						background-position:center;
+						height:1000px;
+						width:100%;
+					  }			  
+		
+		/*--------------------
+		--CLIENTES - HOMEPAGE
+		--------------------*/
+		
+		.clientes{height:250px; width:200%; left:0%;}
+		
+		.grupoDent{top:5%; left:0%; height:100px; width:150px}
+		
+		.lilah{top:5%; left:-2%; height:100px; width:150px;}
+		
+		.uvg{top:5%; left:-4%; height:100px; width:150px;}
+		
+		.streetMKT{top:50%; left:-51%; height:100px; width:150px;}
+
+		.europcar{top:50%; left:-46%; height:100px; width:150px; }
+		
+					  
+		/*------------
+		-- HOMEPAGE
+		-------------*/
+		.hp-servicios{display:block;}	
+		
+		.hp-paginaWeb{display:block;}	
+		
+		.paginaWeb-txt{position:relative; top:45%; font-size:26px; width:90%; left:4%; line-height:33px;}	
+		
+		.div2_1{top:-65%;left:35%;font-size:20px;}
+		
+		.div2_2{top:-68%;left:18%;font-size:27px; text-align:center;width:70%; line-height:35px;}	
+		
+		.div2_3{top:-65%;left:8%;font-size:14px;text-align:center;width:90%;}	
+		
+		.div2_4{top:40%;left:5%;font-size:16px;text-align:center;width:90%;}
+		
+		.div2_5{top:0%;left:8%;font-size:15px;}
+		
+		.success1{left:33%;top:68%;width:80%;}
+		.success1_1{left:8%;top:68%;}
+
+		.success2{left:33%;top:84%;width:100%;}
+		.success2_1{left:8%;top:84%;}
+
+		.success3{left:33%; top:101%; width:150%;}
+		.success3_1{left:8%; top:101%;}
+		
+		.success4{left:33%;top:118%;width:150%;}
+		.success4_1{left:8%;top:118%;}
+		
+		input.btn-Contactanos{ 
+					left:24%;
+					width:200px;
+					height:1%;
+					top:12%;
+					text-align:center;
+				  }
+				  
+		input.btn-Creamos-Pagina-Web{ 
+					top:192%;
+					left:25%;
+					width:200px;
+					height:10%;
+					text-align:center;
+					font-size:15px;
+				  }
+				  
+	   .div3_1{top:10%;text-align:center;font-size:13px;}
+		
+	   .div3_2{top:2%;left:0%;font-size:15px; line-height:23px;}	
+		
+	   .div3_3{top:7%; left:25%; font-size:12px; width:50%; line-height:18px;}	
+	   
+	   input.btn-Quiero-resultados{ 
+					position:relative;
+					top:23%;
+					left:32%;
+					width:150px;
+					height:9%;
+					text-align:center;
+					font-size:12px;
+				  }
+		
+		.div4_1{position:relative; top:25%; width:88%; font-size:12px; left:6%; line-height:18px;}	
+		.div4_2{font-size:15px; left:20%; top:8%;}	
+		.div4_3{font-size:15px; left:21%; top:8%;}
+		.div4_4{font-size:15px; left:-21%; top:16%;}
+		
+		input.btn-Crea-tu-sitio-web{ 
+					left:31%;
+					width:150px;
+					height:22%;
+					text-align:center;
+					top:62%;
+					font-size:12px;
+				  }
+				  
+		/*-----------------
+		-- PAGINAS WEB 
+		------------------*/
+		
+		 .img-pagina-web {
+							background: url(img/web_development_resp.jpg);
+							background-repeat:no-repeat;
+							background-size:100% 100%;
+							background-position:center;
+							height:310px;
+							width:100%;
+					  }
+		
+
+		.menu-pw{display:none;}
+				
+		.nav-paginas-web{
+			position:relative;
+			 height:2050px; 
+			 width:100%;
+			 background-color:white; 
+		  }
+		  
+		  .div-paginas-web{
+			 position:absolute; 
+			 height:2000px; 
+			 width:90%;
+			 padding-top:50px;
+			 box-shadow: -28px 0px 20px -20px #ffffff, 28px 0px 20px -20px #ffffff;
+		  }
+		  
+		  .diseño-sitios h2{font-size: 21px; left:5%; top:0.5%}
+		  .diseño-sitios h3{font-size: 28px; left:5%; top:3%;}
+		  .diseño-sitios p{
+							left:5%;
+							width:90%;
+							top:7%;
+							font-size:18px; 
+						  }
+		.diseño-sitios p b{font-size:19px;}
+							
+		  .PW_pencil{position:absolute;  top:2%; left:77%;}
+		  
+		  .div-paginas-web-hr1{
+								height:2.5px;
+								width:95%;
+								left:2%;
+								top:22%;
+							  }
+			
+			.PW_page{position:absolute;  top:24%; left:2%;}
+			
+			.pw-mantenimiento{font-size:15px;}
+			
+			.pw-mantenimiento p{
+									left:47%;
+									width:50%;
+									top:24%;
+							   }
+							
+			.pw-mantenimiento label{position:absolute; left:-95%; top:100%; width:190%;}
+			
+			.ecommerce{sans-serif; font-size:15px;}
+			
+			.PW_ecommerce{top:37%; left:4%;}
+			
+			.ecommerce p{
+							left:46%;
+							width:50%;
+							top:38%;
+						}
+			
+			.ecommerce label{position:absolute; left:-85%; top:110%; width:190%;}
+			
+			.div-paginas-web-hr2{
+								width:95%;
+								left:2%;
+								top:51%;
+							  }
+			
+			.planes h2{font-size: 18px; left:3%; top:53%}
+			.planes h3{font-size: 26px; left:3%; top:55%;}
+			
+			.plan-basico{
+						 height:380px; 
+						 width:32%;
+						 top:59%;
+						 left:3%;
+						}
+			
+			.img-pw-basico{top:10%; left:15%;}
+			
+			.plan-basico p{font-size:21px; left:20%; top:48%; width:70%;}
+			
+			input.btn-plan-basico {
+									top:75%;
+									left:7%;
+									width:105px;
+									height:40px;
+									font-size:14px;
+								  }
+			
+			.p-plan-basico{
+							left:45%;
+							width:52%;
+							top:59.7%;
+							font-size:18px; 
+							line-height:24px;
+						 }
+			
+			.div-paginas-web-hr3{ display:none;}
+			
+			.plan-premium{
+							 height:380px; 
+							 width:32%;
+							 top:79%;
+							 left:3%;
+						 }
+			
+			.img-pw-premium{top:20%; left:15%;}
+			
+			.plan-premium p{font-size:21px; left:10%; top:48%; width:90%;}
+			
+			input.btn-plan-premium {
+										top:75%;
+										left:7%;
+										width:105px;
+										height:40px;
+										font-size:14px;
+									}
+						
+			input.btn-plan-premium:hover {color: #f89c1c; background: #ffffff; border: 1px solid #f89c1c;}
+			
+			.p-plan-premium{
+								left:45%;
+								width:52%;
+								top:79%;
+								font-size:18px; 
+								line-height:24px;
+							}
+							  
+		  /*-----------------
+			-- SEO - PW
+			------------------*/
+			
+		  .nav-seo{
+			 height:750px; 
+		  }
+		  
+		  .div-seo{
+			 height:700px; 
+			 box-shadow: -28px 0px 20px -20px #ffffff, 28px 0px 20px -20px #ffffff;
+		  }
+		  
+		  .img-seo{top:2%; left:-8%;}
+		  
+		  .div-seo h3{ont-size: 18px; left:2%; top:50%}
+		  .div-seo h1{font-size: 58px; left:2%; top:56%;}
+		  .div-seo h2{font-size: 25px; left:37%; top:54.5%; width:45%;}
+		  
+		  input.btn-mas-info-seo{
+									top:88%;
+									left:20%;
+									width:220px;
+									height:40px;
+									font-size:18px;
+								 }
+		  
+		  .div-seo p{
+						left:2%;
+						width:95%;
+						top:65%;
+						font-size:18px; 
+						line-height:28px;
+					  }
+		  
+		  /*-----------------
+			-- HOSTING - PW
+			------------------*/
+		
+		  .nav-hosting{ height:1000px; }
+		  
+		  .div-hosting{
+			 height:950px; 
+			 width:90%;
+			 box-shadow: -28px 0px 20px -20px #ffffff, 28px 0px 20px -20px #ffffff;
+		  }
+		  
+		  .img-hosting{position:absolute; top:2%; left:17%;}
+		  
+		  .div-hosting p{
+							left:2%;
+							width:95%;
+							top:15%;
+							font-size:16px; 
+							line-height:28px;
+						}
+		  
+		  .div-hosting hr{
+							height:2.5px;
+							width:95%;
+							left:2%;
+							top:0%;
+						  }
+		   
+		   .hosting-carga{			            
+							left:7%;
+							width:85%;
+							top:28.5%;
+							font-size:16px; 
+							line-height:24px;
+						  }   
+						  
+		   .hosting-proteccion{			            
+								left:7%;
+								width:85%;
+								top:52%;
+								font-size:16px; 
+								line-height:24px;
+							  } 
+
+		   .hosting-apoyo{			            
+							left:7%;
+							width:85%;
+							top:76%;
+							font-size:16px; 
+							line-height:24px;
+						  } 						  
+			
+			input.btn-plan-hosting {
+									  top:91%;
+									  left:25%;
+									  width:180px;
+									  height:40px;
+									  font-size:14px;
+									}
+		  
+		  /*-----------------
+			-- DOMINIO - PW
+			------------------*/
+		
+		  .nav-dominio{
+			 height:250px; 
+		  }
+		  
+		  .div-dominio{
+			 position:absolute;
+			 height:200px; 
+			 width:90%;
+			 box-shadow: -28px 0px 20px -20px #ffffff, 28px 0px 20px -20px #ffffff;
+		  }
+		  
+		  .img-dominio{position:absolute; top:1%; left:1%;}
+		  
+		   .div-dominio p{			            
+							left:3%;
+							width:95%;
+							top:40%;
+							font-size:18px; 
+							line-height:25px;
+						  } 
+						  
+		   input.btn-mas-info-hosting{
+										top:98%;
+										left:28%;
+										width:180px;
+										height:35px;
+										font-size:16.5px;
+									  }
+	
+}
+
+
+/* Small phones from 325 to 410px */
+@media only screen and (max-width: 410px) {
+	
+		/*------------
+		-- MENU 
+		-------------*/
+		
+		.NavMenu{position:absolute;left:95%;}
+		
+		#btnMenu:checked ~ .menu{
+			transform:translateX(-0%);
+		}		
+		
+		.menu {
+			position:absolute;
+			top:-20%;
+			width:160px;
+			font-size:10px; 
+			text-align:right;
+			transform:translateX(400%);
+			transition: all 0.3s;
+			}
+		
+		.menu ul{ flex-direction:column;
+				  -webkit-flex-direction:column;
+				  } /*Lo pone en columnas*/
+		
+		.menu ul li:hover ul{
+								text-align:center;
+								left:30%;
+								width:60%;
+							}
+		
+		.img-logo{position:relative; top:3%; left:5%; 300px;}									  
+		/*--------------
+		--Footer
+		---------------*/
+		
+		.footer{height:400px;}
+		.firma{left:10%;}
+		#recaptcha-footer{top:45%;left:20%;}
+		
+		/*---------------------
+		-- Imagenes - HOMEPAGE
+		---------------------*/
+		
+		.img-section1 { height:500px; width:100%;}
+		.img-section3 { height:250px; width:100%;}
+		.img-section2 { height:300px; width:100%;}
+		.img-productos { height:800px; width:100%;}
+		
+		/*---------------
+		--CONTACTO
+		---------------*/
+		
+			.contactoExplora-form { width:80%;}
+			
+			.contactoExplora-form p{
+				font-size:14px; 
+				top:4%;
+				left:20%;
+			}
+			
+			.contactoExplora-form h4{
+				font-size:14px;
+				top:8%;
+				left:14%;
+				width:75%;
+			}
+			
+			.contactoExplora-form h5{
+				font-size:14px;
+				left:7%;
+				top:85%;				
+			}
+		  .nombre-modal { width:80%; height:6%; left:9%; top:15%;}
+		  .correo-modal { width:80%; height:6%; left:9%;top:21.7%;}
+		  .proy-modal { width:80%;  left:9%; top:28.7%;}
+
+		.enviar-modal { width:40%; left:30%; top:75%;}
+		
+		#recaptcha-contacto{ top:62%; left:15.4%; }
+		
+		
+		/*--------------------
+		--CLIENTES - HOMEPAGE
+		---------------------*/
+		
+		.clientes{height:200px; width:200%; left:0%;}
+		
+		.grupoDent{top:5%; left:0%; height:85px; width:130px}
+		
+		.lilah{top:5%; left:-2%; height:85px; width:130px;}
+		
+		.uvg{top:5%; left:-4%; height:85px; width:130px;}
+		
+		.streetMKT{top:50%; left:-51%; height:85px; width:130px;}
+
+		.europcar{top:50%; left:-46%; height:80px; width:130px; }
+		
+		/*------------
+		-- HOMEPAGE
+		-------------*/
+
+		.div2_1{top:-78%;}	
+		
+		.div2_2{top:-83%;}
+		
+		.div2_3{left:5%; top:-78%;}	
+		
+		.div2_4{font-size:14px;}
+		
+		.success1{font-size:16px;}
+
+		.success2{font-size:16px;}
+
+		.success3{font-size:16px;}
+		
+		.success4{font-size:16px;}
+		
+		input.btn-Contactanos{left:25%; width:50%; top:12.3%;}
+				  
+		input.btn-Creamos-Pagina-Web{ top:208%;}
+				  
+	   .div3_1{top:3%;font-size:17px;}
+		
+	   .div3_2{top:-1%;left:0%;font-size:20px;}	
+		
+	   .div3_3{top:5%;left:25%;font-size:12px;width:50%;}	
+	   
+	   .btn-Quiero-resultados{ top:10%;
+					left:30%;
+					width:40%;
+					height:10%;
+					font-size:12px;
+				  }
+		
+		.nuestro_trabajo{width:200%;}
+		.div4_1{position:relative; top:25%; width:88%; font-size:12px; left:5%;}	
+		.div4_2{font-size:18px; left:7%; top:10%;}	
+		.div4_3{font-size:18px; left:7.5%; top:10%;}
+		.div4_4{font-size:18px; left:-25%; top:18%;}
+		
+		.btn-Crea-tu-sitio-web{ 
+					position:relative;
+					left:30%;
+					width:150px;
+					height:22%;
+					text-align:center;
+					font-size:12px;
+				  }
+
+		/*-----------------
+		-- PAGINAS WEB 
+		------------------*/
+		
+		   .img-pagina-web { height:280px; width:100%;}
+			  
+		  .diseño-sitios h2{font-size: 20px; left:5%; top:0.5%}
+		  .diseño-sitios h3{font-size: 22px; left:5%; top:3%;}
+		  .diseño-sitios p{
+							left:5%;
+							width:90%;
+							top:7%;
+							font-size:15px; 
+						  }
+		.diseño-sitios p b{font-size:16px;}
+							
+		  .PW_pencil{position:absolute;  top:2%; left:77%;}
+		  
+		  .div-paginas-web-hr1{
+								height:2.5px;
+								width:95%;
+								left:2%;
+								top:22%;
+							  }
+			
+			.PW_page{position:absolute;  top:24%; left:2%;}
+			
+			.pw-mantenimiento{font-size:13px;}
+			
+			.pw-mantenimiento p{
+									left:45%;
+									width:50%;
+									top:24%;
+							   }
+							
+			.pw-mantenimiento label{position:absolute; left:-95%; top:93%; width:190%;}
+			
+			.ecommerce{sans-serif; font-size:13px;}
+			
+			.PW_ecommerce{top:36%; left:4%;}
+			
+			.ecommerce p{
+							left:45%;
+							width:50%;
+							top:37%;
+						}
+			
+			.ecommerce label{position:absolute; left:-85%; top:93%; width:190%;}
+			
+			.div-paginas-web-hr2{
+								width:95%;
+								left:2%;
+								top:49%;
+							  }
+			
+			.planes h2{font-size: 16px; left:3%; top:51%}
+			.planes h3{font-size: 22px; left:3%; top:53%;}
+			
+			.plan-basico{
+						 height:380px; 
+						 width:33%;
+						 top:57%;
+						 left:3%;
+						}
+			
+			.img-pw-basico{top:10%; left:15%;}
+			
+			.plan-basico p{font-size:21px; left:20%; top:48%; width:70%;}
+			
+			input.btn-plan-basico {
+									top:75%;
+									left:7%;
+									width:95px;
+									height:35px;
+									font-size:11px;
+								  }
+			
+			.p-plan-basico{
+							left:45%;
+							width:52%;
+							top:58.2%;
+							font-size:16px; 
+							line-height:23px;
+						 }
+			
+			.div-paginas-web-hr3{ display:none;}
+			
+			.plan-premium{
+							 height:380px; 
+							 width:33%;
+							 top:78%;
+							 left:3%;
+						 }
+			
+			.img-pw-premium{top:20%; left:15%;}
+			
+			.plan-premium p{font-size:20px; left:8%; top:48%; width:90%;}
+			
+			input.btn-plan-premium {
+										top:75%;
+										left:7%;
+										width:95px;
+										height:35px;
+										font-size:11px;
+									}
+			
+			.p-plan-premium{
+								left:45%;
+								width:52%;
+								top:79%;
+								font-size:16px; 
+								line-height:23px;
+							}
+							  
+		  /*-----------------
+			-- SEO - PW
+			------------------*/
+			
+		  .nav-seo{
+			 height:750px; 
+		  }
+		  
+		  .div-seo{
+			 height:700px; 
+			 box-shadow: -28px 0px 20px -20px #ffffff, 28px 0px 20px -20px #ffffff;
+		  }
+		  
+		  .img-seo{top:2%; left:-8%;}
+		  
+		  .div-seo h3{font-size: 18px; left:2%; top:45%}
+		  .div-seo h1{font-size: 58px; left:2%; top:52%}
+		  .div-seo h2{font-size: 25px; left:39%; top:50.5%; width:85%;}
+		  
+		  input.btn-mas-info-seo{
+									top:88%;
+									left:20%;
+									width:180px;
+									height:30px;
+									font-size:15px;
+								 }
+		  
+		  .div-seo p{
+						left:2%;
+						width:95%;
+						top:62%;
+						font-size:16px; 
+						line-height:25px;
+					  }
+		  
+		  /*-----------------
+			-- HOSTING - PW
+			------------------*/
+		
+		  .nav-hosting{ height:1000px; }
+		  
+		  .div-hosting{
+			 height:950px; 
+			 width:90%;
+			 box-shadow: -28px 0px 20px -20px #ffffff, 28px 0px 20px -20px #ffffff;
+		  }
+		  
+		  .img-hosting{position:absolute; top:2%; left:6%;}
+		  
+		  .div-hosting p{
+							left:2%;
+							width:95%;
+							top:15%;
+							font-size:14px; 
+							line-height:28px;
+						}
+		  
+		  .div-hosting hr{
+							height:2.5px;
+							width:95%;
+							left:2%;
+							top:0%;
+						  }
+		   
+		   .hosting-carga{			            
+							left:7%;
+							width:85%;
+							top:28.5%;
+							font-size:14px; 
+							line-height:24px;
+						  }   
+						  
+		   .hosting-proteccion{			            
+								left:7%;
+								width:85%;
+								top:52%;
+								font-size:14px; 
+								line-height:24px;
+							  } 
+
+		   .hosting-apoyo{			            
+							left:7%;
+							width:85%;
+							top:74%;
+							font-size:14px; 
+							line-height:24px;
+						  } 						  
+			
+			input.btn-plan-hosting {
+									  top:88%;
+									  left:21%;
+									  width:180px;
+									  height:40px;
+									  font-size:14px;
+									}
+		  
+		  /*-----------------
+			-- DOMINIO - PW
+			------------------*/
+		
+		  .nav-dominio{
+			 height:250px; 
+		  }
+		  
+		  .div-dominio{
+			 position:absolute;
+			 height:200px; 
+			 width:90%;
+			 box-shadow: -28px 0px 20px -20px #ffffff, 28px 0px 20px -20px #ffffff;
+		  }
+		  
+		  .img-dominio{position:absolute; top:1%; left:1%;}
+		  
+		   .div-dominio p{			            
+							left:3%;
+							width:95%;
+							top:40%;
+							font-size:15.5px; 
+							line-height:25px;
+						  } 
+						  
+		   input.btn-mas-info-hosting{
+										top:105%;
+										left:25%;
+										width:160px;
+										height:35px;
+										font-size:14.5px;
+									  }
+	
+}
+
+/* Mini devices 0 to 325px */
+@media only screen and (max-width: 325px) {
+	
+	   /*------------
+		-- MENU 
+		-------------*/
+	
+		
+		
+		/*-------------- 
+		--Footer
+		---------------*/
+		.footer{font-size:30px; height:370px;}
+		#txtNombre{width:80%;height:28px;left:10%;top:27%;}
+		#txtTelefono{width:80%;height:28px;left:10%;top:36%;}
+		#recaptcha-footer{
+			top:45.5%; left:24%;
+			-webkit-transform: scale(0.60);
+			-moz-transform:    scale(0.60);
+			-ms-transform:     scale(0.60);
+			-o-transform:      scale(0.60);
+			transform:         scale(0.60);
+
+			-webkit-transform-origin: 0 0;
+			-moz-transform-origin: 0 0;
+			-ms-transform-origin: 0 0;
+			-o-transform-origin: 0 0;
+			transform-origin: 0 0;
+		}
+		#btnEnviar{top:60%;left:35%;width:35%;height:30px;}
+		#fb{left:53%;}
+		#im{left:65%;}
+		#in{left:80%;}
+		.firma{left:11%; font-size:11px;}
+		
+		/*---------------
+		--CONTACTO
+		---------------*/
+		
+			.contactoExplora-form { width:80%;}
+			
+			.contactoExplora-form p{
+				font-size:15px; 
+				top:2%;
+				left:15%;
+			}
+			
+			.contactoExplora-form h4{
+				font-size:14px;
+				top:6%;
+				left:13%;
+			}
+			
+			.contactoExplora-form h5{
+				font-size:12px;
+				left:10%;
+				top:77%;				
+			}
+		  .nombre-modal { width:80%; height:4%; left:10%; top:12%;}
+		  .correo-modal { width:80%; height:4%; left:10%;top:17%;}
+		  .proy-modal { width:80%;  left:10%; top:22%;}
+		  
+		  .contactoExplora-cerrar{right:0.5%; top:0.5%;}
+
+		.enviar-modal { width:40%; left:30%; top:68%;}
+		#recaptcha-contacto{ top:55.5%; left:12%;}
+		  
+		/*----------------------
+		-- Imagenes - HOMEPAGE
+		----------------------*/
+		
+		.img-section1 { height:500px; width:100%;}
+		.img-section2 { height:250px; width:100%;}
+		.img-section3 { height:250px; width:100%;}
+		
+		/*--------------------
+		--CLIENTES - HOMEPAGE
+		--------------------*/
+		
+		.clientes{height:180px; width:200%; left:0%;}
+		
+		.grupoDent{top:5%; left:1%; height:65px; width:110px}
+		
+		.lilah{top:5%; left:-1%; height:65px; width:110px;}
+		
+		.uvg{top:5%; left:-3%; height:65px; width:110px;}
+		
+		.streetMKT{top:50%; left:-46%; height:65px; width:110px;}
+
+		.europcar{top:53%; left:-41%; height:60px; width:110px; }
+		
+		
+		/*------------
+		-- HOMEPAGE
+		-------------*/
+		.paginaWeb-txt{position:relative; top:45%; font-size:20px; width:82%; left:8.5%;}	
+		.input.btn-Contactanos{left:23%; width:55%; height:1.8%;}
+		
+		.div2_1{top:-88%; left:33%;}
+		
+		.div2_2{top:-93%; left:17%; font-size:25px;}	
+		
+		.div2_3{top:-88%; left:5%; font-size:14px; width:90%;}	
+		
+		.div2_4{top:30%; left:5%; font-size:15px; text-align:center; width:90%;}
+		
+		.div2_5{top:35%; left:8%; font-size:15px;}
+		
+		.success1{left:25%; top:1%; font-size:17px;}
+		.success1_1{left:5%; top:0%;}
+
+		.success2{left:25%; top:21%; font-size:17px;}
+		.success2_1{left:5%; top:20%;}
+
+		.success3{left:25%; top:41%; font-size:17px;}
+		.success3_1{left:5%; top:40%;}
+		
+		.success4{left:25%; top:61%; width:150%; font-size:17px;}
+		.success4_1{left:5%; top:60%;}
+		
+		input.btn-Creamos-Pagina-Web{ left:20%; width:200px; height:12%; font-size:15px; top:230%;}
+		
+		.div3_1{font-size:15px;}
+		
+		.div3_2{top:-1%; left:0%; font-size:17px;}	
+		
+		.div3_3{top:5%; left:25%; font-size:10px; width:50%;}	
+	   
+		.btn-Quiero-resultados{ top:12%; height:12%;}
+		
+		input.btn-Crea-tu-sitio-web{left:27%;}
+		
+		.div4_2{font-size:15px; top:10%;}	
+		.div4_3{font-size:15px; left:8%; top:10%;}
+		.div4_4{font-size:15px; left:-22%; top:18%;}
+		
+		
+		/*-----------------
+		-- PAGINAS WEB 
+		------------------*/
+		  .img-pagina-web { height:270px; width:100%;}
+		  
+		  .diseño-sitios h2{font-size: 18px; left:5%; top:0.5%}
+		  .diseño-sitios h3{font-size: 20px; left:5%; top:3%;}
+							
+		  .PW_pencil{position:absolute;  top:2%; left:73%;}
+			
+			.pw-mantenimiento{font-size:11px;}
+			
+			.ecommerce{font-size:11px;}
+			
+			.PW_ecommerce{top:36%; left:4%;}
+			
+				.div-paginas-web-hr2{
+								width:95%;
+								left:2%;
+								top:49%;
+							  }
+			
+			.planes h2{font-size: 16px; left:3%; top:51%}
+			.planes h3{font-size: 22px; left:3%; top:53%;}
+			
+			.plan-basico{
+						 height:380px; 
+						 width:36%;
+						 top:57%;
+						 left:0%;
+						}
+			
+			.img-pw-basico{top:10%; left:15%;}
+			
+			.plan-basico p{font-size:21px; left:20%; top:48%; width:70%;}
+			
+			input.btn-plan-basico {
+									top:75%;
+									left:7%;
+									width:90px;
+									height:35px;
+									font-size:10px;
+								  }
+			
+			.p-plan-basico{
+							left:46%;
+							width:52%;
+							top:58.2%;
+							font-size:14.5px; 
+							line-height:20px;
+						 }
+			
+			.div-paginas-web-hr3{ display:none;}
+			
+			.plan-premium{
+							 height:380px; 
+							 width:36%;
+							 top:78%;
+							 left:0%;
+						 }
+			
+			.img-pw-premium{top:20%; left:15%;}
+			
+			.plan-premium p{font-size:19px; left:7%; top:48%; width:90%;}
+			
+			input.btn-plan-premium {
+										top:75%;
+										left:7%;
+										width:90px;
+										height:35px;
+										font-size:10px;
+									}
+			
+			.p-plan-premium{
+								left:46%;
+								width:52%;
+								top:79%;
+								font-size:14.5px; 
+								line-height:20px;
+							}
+							  
+		  /*-----------------
+			-- SEO - PW
+			------------------*/
+			
+		  .nav-seo{
+			 height:650px; 
+		  }
+		  
+		  .div-seo{
+			 height:600px; 
+			 box-shadow: -28px 0px 20px -20px #ffffff, 28px 0px 20px -20px #ffffff;
+		  }
+		  
+		  .img-seo{top:2%; left:-8%;}
+		  
+		  .div-seo h3{font-size: 18px; left:2%; top:45%}
+		  .div-seo h1{font-size: 58px; left:2%; top:52.5%}
+		  .div-seo h2{font-size: 23px; left:45%; top:51%; width:85%;}
+		  
+		  input.btn-mas-info-seo{
+									top:88%;
+									left:20%;
+									width:180px;
+									height:30px;
+									font-size:15px;
+								 }
+		  
+		  .div-seo p{
+						left:2%;
+						width:95%;
+						top:62%;
+						font-size:16px; 
+						line-height:25px;
+					  }
+		  
+		  /*-----------------
+			-- HOSTING - PW
+			------------------*/
+		
+		  .nav-hosting{ height:1000px; }
+		  
+		  .div-hosting{
+			 height:950px; 
+			 width:90%;
+			 box-shadow: -28px 0px 20px -20px #ffffff, 28px 0px 20px -20px #ffffff;
+		  }
+		  
+		  .img-hosting{position:absolute; top:4%; left:5%;}
+		  
+		  .div-hosting p{
+							left:2%;
+							width:95%;
+							top:13%;
+							font-size:14px; 
+							line-height:25px;
+						}
+		  
+		  .div-hosting hr{
+							height:2.5px;
+							width:95%;
+							left:2%;
+							top:0%;
+						  }
+		   
+		   .hosting-carga{			            
+							left:7%;
+							width:85%;
+							top:28.5%;
+							font-size:14px; 
+							line-height:23px;
+						  }   
+						  
+		   .hosting-proteccion{			            
+								left:7%;
+								width:85%;
+								top:52%;
+								font-size:14px; 
+								line-height:23px;
+							  } 
+
+		   .hosting-apoyo{			            
+							left:7%;
+							width:85%;
+							top:74%;
+							font-size:14px; 
+							line-height:23px;
+						  } 						  
+			
+			input.btn-plan-hosting {
+									  top:91%;
+									  left:21%;
+									  width:180px;
+									  height:40px;
+									  font-size:14px;
+									}
+		  
+		  /*-----------------
+			-- DOMINIO - PW
+			------------------*/
+		
+		  .nav-dominio{
+			 height:250px; 
+		  }
+		  
+		  .div-dominio{
+			 position:absolute;
+			 height:200px; 
+			 width:90%;
+			 box-shadow: -28px 0px 20px -20px #ffffff, 28px 0px 20px -20px #ffffff;
+		  }
+		  
+		  .img-dominio{position:absolute; top:1%; left:1%;}
+		  
+		   .div-dominio p{			            
+							left:3%;
+							width:95%;
+							top:40%;
+							font-size:15.5px; 
+							line-height:25px;
+						  } 
+						  
+		   input.btn-mas-info-hosting{
+										top:105%;
+										left:25%;
+										width:160px;
+										height:35px;
+										font-size:14.5px;
+									  }
+	
+		
+}
